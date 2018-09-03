@@ -4,6 +4,7 @@
 |App|Link|Translation|Status|
 |:-:|:-:|:-:|:-:|
 |Tachiyomi|[Here](https://github.com/inorichi/tachiyomi)|[Here](https://hosted.weblate.org/projects/tachiyomi/)|Fully|
+|TWRPBuilder|[Here](https://twrpbuilder.github.io)|[Here](https://github.com/TwrpBuilder/TwrpBuilder/blob/master/app/src/main/res/values-ar/strings.xml)|Fully|
 |FrontFlash Notification|[Here](https://play.google.com/store/apps/details?id=com.trendy.frontflashnotification)|[Here](http://ffn-localizations.oneskyapp.com/collaboration/project/142172)|Fully|
 |YouTube Downloader for Android|[Here](https://forum.xda-developers.com/showthread.php?t=2137743)|[Here](http://www.getlocalization.com/ytdownloader/)|Fully|
 |Quick Volume Control|[Here](https://play.google.com/store/apps/details?id=com.greatapps.volumeinnotification)|[Here](https://forum.xda-developers.com/showpost.php?p=75735882&postcount=3481)|Fully|
