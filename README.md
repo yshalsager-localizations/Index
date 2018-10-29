@@ -19,6 +19,8 @@
 |Program|Link|Translation|Status|
 |:-:|:-:|:-:|:-:|
 |Wire for desktop|[Here](https://github.com/yshalsager-translations/wire-desktop)|[Here](https://github.com/yshalsager-translations/wire-desktop/tree/arabic)|Completing|
+|Bookworm|[Here](https://github.com/babluboy/bookworm)|[Here](https://hosted.weblate.org/projects/bookworm/bookworm/ar/)|Fully|
+
 
 ## Others:
 |Name|Link|Translation|Status|
