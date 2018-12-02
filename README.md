@@ -14,6 +14,8 @@
 |XDA Feed|[Here](https://play.google.com/store/apps/details?id=com.xda.feed)|[Here](https://crowdin.com/project/xda-feed/ar)|Completing|
 |XDA Labs|[Here](http://www.xda-labs.com)|[Here](https://crowdin.com/project/xda-labs/ar/)|Completing|
 |Wakelock|[Here](https://play.google.com/store/apps/details?id=eu.thedarken.wldonate)|[Here](https://crowdin.com/project/wakelock/ar)|Fully|
+|Traffic Assistant|[Here](https://play.google.com/store/apps/details?id=com.company.Traffic_Assistant)|[Here](https://osrcrce.oneskyapp.com/admin/project/dashboard/project/323094)|Fully|
+
 
 ## Programs:
 |Program|Link|Translation|Status|
@@ -25,5 +27,6 @@
 ## Others:
 |Name|Link|Translation|Status|
 |:-:|:-:|:-:|:-:|
-|phpsysinfo|[Here](https://github.com/phpsysinfo/phpsysinfo)|[Here](https://github.com/yshalsager-translations/phpsysinfo/tree/arabic)|Completing|
-|Universal-Bypass|[Here](https://github.com/hell-sh/Universal-Bypass)|[Here](https://github.com/yshalsager-translations/Universal-Bypass/tree/arabic)|Completing|
+|phpsysinfo|[Here](https://github.com/phpsysinfo/phpsysinfo)|[Here](https://github.com/yshalsager-translations/phpsysinfo/tree/arabic)|Fully|
+|Universal-Bypass|[Here](https://github.com/hell-sh/Universal-Bypass)|[Here](https://github.com/yshalsager-translations/Universal-Bypass/tree/arabic)|Fully|
+|skybutler|[Here](https://github.com/ATechnoHazard/skybutler)|[Here](https://github.com/ATechnoHazard/skybutler/blob/Default/SkyButler/modules/translations/Arabic.py)|Fully|
