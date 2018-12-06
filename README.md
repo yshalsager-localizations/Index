@@ -21,6 +21,7 @@
 |ROM|Link|Translation|Status|
 |:-:|:-:|:-:|:-:|
 |ArrowOS|[Here](https://www.arrowos.net/)|[Here](https://crowdin.com/project/arrowos/ar)|Completing|
+|AOSIP|[Here](https://sourceforge.net/projects/illusionproject/files/)|[Here](https://crowdin.com/project/illusionproject/ar)|Completing|
 
 ## Programs:
 |Program|Link|Translation|Status|
