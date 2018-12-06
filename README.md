@@ -16,6 +16,10 @@
 |Wakelock|[Here](https://play.google.com/store/apps/details?id=eu.thedarken.wldonate)|[Here](https://crowdin.com/project/wakelock/ar)|Fully|
 |Traffic Assistant|[Here](https://play.google.com/store/apps/details?id=com.company.Traffic_Assistant)|[Here](https://osrcrce.oneskyapp.com/admin/project/dashboard/project/323094)|Fully|
 
+## Android Custom ROMs:
+|ROM|Link|Translation|Status|
+|:-:|:-:|:-:|:-:|
+|ArrowOS|[Here](https://www.arrowos.net/)|[Here](https://crowdin.com/project/arrowos/ar)|Completing|
 
 ## Programs:
 |Program|Link|Translation|Status|
