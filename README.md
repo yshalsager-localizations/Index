@@ -15,6 +15,7 @@
 |XDA Labs|[Here](http://www.xda-labs.com)|[Here](https://crowdin.com/project/xda-labs/ar/)|Completing|
 |Wakelock|[Here](https://play.google.com/store/apps/details?id=eu.thedarken.wldonate)|[Here](https://crowdin.com/project/wakelock/ar)|Fully|
 |Traffic Assistant|[Here](https://play.google.com/store/apps/details?id=com.company.Traffic_Assistant)|[Here](https://osrcrce.oneskyapp.com/admin/project/dashboard/project/323094)|Fully|
+|Lawnchair|[Here](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)|[Here](https://crowdin.com/project/lawnchairandroid/ar)|Completing|
 
 ## Android Custom ROMs:
 |ROM|Link|Translation|Status|
