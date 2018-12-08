@@ -33,8 +33,8 @@
 
 
 ## Others:
-|Name|Link|Translation|Status|
-|:-:|:-:|:-:|:-:|
-|phpsysinfo|[Here](https://github.com/phpsysinfo/phpsysinfo)|[Here](https://github.com/yshalsager-translations/phpsysinfo/tree/arabic)|Fully|
-|Universal-Bypass|[Here](https://github.com/hell-sh/Universal-Bypass)|[Here](https://github.com/yshalsager-translations/Universal-Bypass/tree/arabic)|Fully|
-|skybutler|[Here](https://github.com/ATechnoHazard/skybutler)|[Here](https://github.com/ATechnoHazard/skybutler/blob/Default/SkyButler/modules/translations/Arabic.py)|Fully|
+|Name|Link|Translation|Status|Info|
+|:-:|:-:|:-:|:-:|:-:|
+|phpsysinfo|[Here](https://github.com/phpsysinfo/phpsysinfo)|[Here](https://github.com/yshalsager-translations/phpsysinfo/tree/arabic)|Fully|Webpage script
+|Universal-Bypass|[Here](https://github.com/hell-sh/Universal-Bypass)|[Here](https://github.com/yshalsager-translations/Universal-Bypass/tree/arabic)|Fully|Browser Add-on
+|skybutler|[Here](https://github.com/ATechnoHazard/skybutler)|[Here](https://github.com/ATechnoHazard/skybutler/blob/Default/SkyButler/modules/translations/Arabic.py)|Fully|Telegram Bot
