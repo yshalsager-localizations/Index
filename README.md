@@ -36,5 +36,5 @@
 |Name|Link|Translation|Status|Info|
 |:-:|:-:|:-:|:-:|:-:|
 |phpsysinfo|[Here](https://github.com/phpsysinfo/phpsysinfo)|[Here](https://github.com/yshalsager-translations/phpsysinfo/tree/arabic)|Fully|Webpage script
-|Universal-Bypass|[Here](https://github.com/hell-sh/Universal-Bypass)|[Here](https://github.com/yshalsager-translations/Universal-Bypass/tree/arabic)|Fully|Browser Add-on
+|Universal-Bypass|[Here](https://github.com/hell-sh/Universal-Bypass)|[Here](https://crowdin.com/project/bypass/ar)|Fully|Browser Add-on
 |skybutler|[Here](https://github.com/ATechnoHazard/skybutler)|[Here](https://github.com/ATechnoHazard/skybutler/blob/Default/SkyButler/modules/translations/Arabic.py)|Fully|Telegram Bot
