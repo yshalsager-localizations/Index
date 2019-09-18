@@ -17,6 +17,8 @@
 |Traffic Assistant|[Here](https://play.google.com/store/apps/details?id=com.company.Traffic_Assistant)|[Here](https://osrcrce.oneskyapp.com/admin/project/dashboard/project/323094)|Fully|
 |Lawnchair|[Here](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)|[Here](https://crowdin.com/project/lawnchairandroid/ar)|Completing|
 |hyperion launcher|[Here](https://play.google.com/store/apps/details?id=projekt.launcher)|[Here](https://crowdin.com/project/hyperion/ar)|Completing|
+|AI Photo analyzer FaceAge|[Here](https://play.google.com/store/apps/details?id=com.tikamori.face.age.recognition)|[Here](https://tikamori.oneskyapp.com/collaboration/translate/project/project/339662/language/28)|Fully|
+|Treble Info|[Here](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck)|[Here](https://poeditor.com/projects/po_edit?id_language=7&id=285385)|Fully|
 
 
 ## Android Custom ROMs:
@@ -38,3 +40,4 @@
 |phpsysinfo|[Here](https://github.com/phpsysinfo/phpsysinfo)|[Here](https://github.com/yshalsager-translations/phpsysinfo/tree/arabic)|Fully|Webpage script
 |Universal-Bypass|[Here](https://github.com/hell-sh/Universal-Bypass)|[Here](https://crowdin.com/project/bypass/ar)|Fully|Browser Add-on
 |skybutler|[Here](https://github.com/ATechnoHazard/skybutler)|[Here](https://github.com/ATechnoHazard/skybutler/blob/Default/SkyButler/modules/translations/Arabic.py)|Fully|Telegram Bot
+|Donations|[Here](https://github.com/penn5/donations)|[Here](https://poeditor.com/projects/po_edit?id_language=7&id=285389)|Android library|
