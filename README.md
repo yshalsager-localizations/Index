@@ -40,4 +40,4 @@
 |phpsysinfo|[Here](https://github.com/phpsysinfo/phpsysinfo)|[Here](https://github.com/yshalsager-translations/phpsysinfo/tree/arabic)|Fully|Webpage script
 |Universal-Bypass|[Here](https://github.com/hell-sh/Universal-Bypass)|[Here](https://crowdin.com/project/bypass/ar)|Fully|Browser Add-on
 |skybutler|[Here](https://github.com/ATechnoHazard/skybutler)|[Here](https://github.com/ATechnoHazard/skybutler/blob/Default/SkyButler/modules/translations/Arabic.py)|Fully|Telegram Bot
-|Donations|[Here](https://github.com/penn5/donations)|[Here](https://poeditor.com/projects/po_edit?id_language=7&id=285389)|Android library|
+|Donations|[Here](https://github.com/penn5/donations)|[Here](https://poeditor.com/projects/po_edit?id_language=7&id=285389)|Fully|Android library|
